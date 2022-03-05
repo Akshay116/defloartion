@@ -1,0 +1,25 @@
+.shedule{
+    display: flex;
+    flex-direction: column;
+   background-color: blanchedalmond;
+}
+#headb{
+    text-align: center;
+ text-transform: uppercase;
+}
+h4{
+   
+    text-align: center;
+    margin-left: 25px;
+    text-transform: uppercase;
+}
+.shedule-list{
+
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+}
+ul {
+  list-style-type: none;
+}

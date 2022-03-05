@@ -1,7 +1,7 @@
 import React from 'react';
-import twitter from './assets/twitter.png';
-import discord from './assets/discord.png';
-import "./assets/start.css";
+import twitter from './assets/logos/twitter.png';
+import discord from './assets/logos/discord.png';
+import "./assets/styles/start.css";
 const Navbar = () => {
     return (
       <div className="logos">

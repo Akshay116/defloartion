@@ -1,5 +1,5 @@
 import React from 'react';
-import './assets/wallet.css';
+import './assets/styles/wallet.css';
 
 const Wallet = () => {
     return (

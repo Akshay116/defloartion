@@ -1,6 +1,6 @@
 import React from 'react';
-import twitter from './assets/twitter.png';
-import discord from './assets/discord.png';
+import twitter from './assets/logos/twitter.png';
+import discord from './assets/logos/discord.png';
 
 const Footer = () => {
     return (
