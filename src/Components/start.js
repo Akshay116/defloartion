@@ -8,7 +8,7 @@ const Start = () => {
         <Navbar />
         <div className="starter-content">
           <h1 style={{ color: "White" }}>DEfaltory</h1>
-          <p >logo moto tagline contetent can be taken here from props</p>
+          <p id='quote' >logo moto tagline contetent can be taken here from props</p>
         </div>
       </div>
     );

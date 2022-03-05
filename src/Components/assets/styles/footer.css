@@ -1,0 +1,24 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: wheat;
+   
+   
+}
+#headfaq{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.footer-icons{
+     display: flex;
+    justify-content: end;
+    margin-right: 120px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.logo-twitter:hover{
+   cursor:pointer;
+}
