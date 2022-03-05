@@ -1,0 +1,25 @@
+.wallet-btn{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aqua;
+ 
+}
+.wallet{
+    border-width: 10px;
+    border-style: solid;
+    border-color: burlywood;
+    background-color: black;
+    padding: 75px 75px 75px 75px;
+}
+.btnclr{
+    color: white;
+    background-color: purple;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    padding: 5px 5px 5px 5px;
+}
+.btnclr:hover{
+    color: tomato;
+}

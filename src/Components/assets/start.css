@@ -1,0 +1,40 @@
+  
+h1 {
+    text-align:center;
+    font: weight 200px;
+} 
+blockquote{
+    text-align: center;
+    
+    
+}
+.starter{
+    display: block;
+}
+.logos{
+  display: flex;
+  justify-content: flex-end;
+ 
+  margin-bottom: 10%;
+
+}
+.logo-twitter{
+   display: flex; 
+
+   display: inline;
+   margin-left: 20px;  
+   margin-top: 15px; 
+   margin-right: 20px;
+  
+   
+}
+.logo-discord{
+   display: flex;
+   margin-top: 15px; 
+   margin-right: 10px;
+  
+  
+}
+.starter-content{
+    
+}
